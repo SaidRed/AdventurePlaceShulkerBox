@@ -1,0 +1,4 @@
+name: AdventurePlaceShulkerBox
+version: '1.0-Alpha'
+main: com.github.saidred.adventurePlaceShulkerBox.AdventurePlaceShulkerBox
+api-version: '1.21'

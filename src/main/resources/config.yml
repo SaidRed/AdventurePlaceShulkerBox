@@ -1,0 +1,11 @@
+shulkerBreakTick: 100
+
+shulkerPlace:
+  information: true
+  color: "BLUE"
+  massage: "シュルカーボックス設置を確認"
+
+shulkerBreak:
+  information: true
+  color: "GREEN"
+  massage: "シュルカーボックスをアイテム化しました"
